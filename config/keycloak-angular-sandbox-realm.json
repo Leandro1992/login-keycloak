@@ -1329,7 +1329,7 @@
     "strictTransportSecurity": "max-age=31536000; includeSubDomains"
   },
   "smtpServer": {},
-  "loginTheme": "futebolzinho",
+  "loginTheme": "bankplus",
   "accountTheme": "",
   "adminTheme": "",
   "emailTheme": "",
